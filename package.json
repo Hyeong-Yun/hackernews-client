@@ -1,0 +1,24 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeong-Yun/hackernews-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/Hyeong-Yun/hackernews-client/issues"
+  },
+  "homepage": "https://github.com/Hyeong-Yun/hackernews-client#readme",
+  "devDependencies": {
+    "parcel": "^2.1.1"
+  }
+}
